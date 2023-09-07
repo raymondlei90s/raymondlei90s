@@ -10,8 +10,8 @@
 
 ### Hi there 👋
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=raymondlei90s&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raymondlei90s)](https://github.com/anuraghazra/github-readme-stats)
+<p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=raymondlei90s&theme=dark&background=000000" alt="raymond-lei" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raymondlei90s" alt="raymond-lei" /></p>
 
 
 <!--
