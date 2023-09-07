@@ -11,6 +11,7 @@
 ### Hi there 👋
 ### :fire: My Stats :
 <p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=raymondlei90s&theme=dark&background=000000" alt="raymond-lei" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raymondlei90s&show_icons=true&locale=en" alt="raymond-lei" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raymondlei90s" alt="raymond-lei" /></p>
 
 
