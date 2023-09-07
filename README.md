@@ -1,10 +1,11 @@
 <div id="header" align="center">
-  <img src="/assets/images/icon.png" width="300"/>
-  <div id="badges">
-  <a href="https://www.linkedin.com/in/raymond-lei/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
+    <img src="/assets/images/icon.png" width="300"/>
+    <div id="badges">
+        <a href="https://www.linkedin.com/in/raymond-lei/">
+            <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+        </a>
+    </div>
+    <img src="https://komarev.com/ghpvc/?username=raymondlei90s&style=flat-square&color=green" alt=""/>
 </div>
 
 ### Hi there 👋
