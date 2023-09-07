@@ -5,10 +5,12 @@
             <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
         </a>
     </div>
-    <img src="https://komarev.com/ghpvc/?username=raymondlei90s&style=flat-square&color=green" alt=""/>
+    <img src="https://komarev.com/ghpvc/?username=raymondlei90s&style=flat-square&color=blue" alt=""/>
 </div>
 
 ### Hi there 👋
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=raymondlei90s&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <!--
 **raymondlei90s/raymondlei90s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
