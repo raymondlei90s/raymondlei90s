@@ -15,6 +15,8 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=raymondlei90s&show_icons=true&locale=en" alt="raymondlei90s" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raymondlei90s" alt="raymondlei90s" /></p>
 
+## LeetCode for lyfe! ([profile](https://leetcode.com/raymondlei90s))
+[![Lei Yang's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=raymondlei90s)](https://github.com/KnlnKS/leetcode-stats)
 
 <!--
 **raymondlei90s/raymondlei90s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
