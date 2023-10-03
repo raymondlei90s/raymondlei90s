@@ -10,10 +10,10 @@
 
 ### Hi there 👋
 ### :fire: My Stats :
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raymondlei90s" alt="raymondlei90s" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raymondlei90s" alt="raymondlei90s" /></a> </p>
 <p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=raymondlei90s&theme=dark&background=000000" alt="raymondlei90s" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=raymondlei90s&show_icons=true&locale=en" alt="raymondlei90s" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raymondlei90s" alt="raymondlei90s" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raymondlei90s" alt="raymondlei90s" /></p> -->
 
 ## LeetCode for lyfe! ([profile](https://leetcode.com/raymondlei90s))
 [![Lei Yang's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=raymondlei90s)](https://github.com/KnlnKS/leetcode-stats)
