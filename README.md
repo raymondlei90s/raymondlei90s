@@ -1,4 +1,4 @@
-<div id="header" align="center">
+<div id="header" align="left">
     <img src="/assets/images/icon.png" width="300"/>
     <div id="badges">
         <a href="https://www.linkedin.com/in/raymond-lei/">
